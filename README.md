@@ -1,3 +1,3 @@
-# Face Detection with photo
+# Face detection with photo
 
 พัฒนามาจากภาษา Python เพื่อนำไปต่อยอด เเละสร้างประโยชน์ต่อไปในงานตรวจจับใบหน้า
